@@ -6,20 +6,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
-    <link rel="icon" href="../images/favicon.ico">
 
     <title> Admin - {{ env('APP_NAME') }}</title>
 
     <!-- Vendors Style-->
-    <link rel="stylesheet" href="css/vendors_css.css">
+    <link rel="stylesheet" href="{{url('assets/admin/css/vendors_css.css')}}">
 
     <!-- Style-->
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="css/skin_color.css">
+    <link rel="stylesheet" href="{{url('assets/admin/css/style.css')}}">
+    <link rel="stylesheet" href="{{url('assets/admin/css/skin_color.css')}}">
 
 </head>
 
-<body class="hold-transition theme-primary bg-img" style="background-image: url(../images/auth-bg/bg-1.jpg)" data-overlay="5">
+<body class="hold-transition theme-primary bg-img" style="background-image: url({{url('images/bg.jpg')}})" data-overlay="2">
 
 <div class="container h-p100">
     <div class="row align-items-center justify-content-md-center h-p100">
@@ -30,24 +29,29 @@
                     <div class="bg-white rounded shadow-lg">
                         <div class="content-top-agile p-20 pb-0">
                             <h2 class="text-primary">Let's Get Started</h2>
-                            <p class="mb-0">Sign in to continue to Florence.</p>
+                            <p class="mb-0">Sign in to continue to {{ env('APP_NAME') }}.</p>
                         </div>
+
+                        <div class="text-center">
+                            <img src="{{url('images/logo.png')}}" style=" margin-top: 20px; width: 100px; height: 100px;" alt="">
+                        </div>
+
                         <div class="p-40">
-                            <form action="" method="post">
+                            <form action="{{route('login.store')}}" method="post">
                                 <div class="form-group">
                                     <div class="input-group mb-3">
                                         <div class="input-group-prepend">
                                             <span class="input-group-text bg-transparent"><i class="ti-user"></i></span>
                                         </div>
-                                        <input type="text" class="form-control pl-15 bg-transparent" placeholder="Username">
+                                        <input type="email" name="email_address" required class="form-control pl-15 bg-transparent" placeholder="Email Address">
                                     </div>
                                 </div>
                                 <div class="form-group">
                                     <div class="input-group mb-3">
                                         <div class="input-group-prepend">
-                                            <span class="input-group-text  bg-transparent"><i class="ti-lock"></i></span>
+                                            <span class="input-group-text bg-transparent"><i class="ti-lock"></i></span>
                                         </div>
-                                        <input type="password" class="form-control pl-15 bg-transparent" placeholder="Password">
+                                        <input type="password" name="password" required class="form-control pl-15 bg-transparent" placeholder="Password">
                                     </div>
                                 </div>
                                 <div class="row">
@@ -58,36 +62,14 @@
                                         </div>
                                     </div>
                                     <!-- /.col -->
-                                    <div class="col-6">
-                                        <div class="fog-pwd text-right">
-                                            <a href="javascript:void(0)" class="hover-warning"><i class="ion ion-locked"></i> Forgot pwd?</a><br>
-                                        </div>
-                                    </div>
-                                    <!-- /.col -->
                                     <div class="col-12 text-center">
-                                        <button type="submit" class="btn btn-danger mt-10">SIGN IN</button>
+                                        <button type="submit" class="btn btn-danger btn-block mt-10">SIGN IN</button>
                                     </div>
                                     <!-- /.col -->
                                 </div>
                             </form>
-                            <div class="text-center">
-                                <p class="mt-15 mb-0">Don't have an account? <a href="auth_register.html" class="text-warning ml-5">Sign Up</a></p>
-                            </div>
+
                         </div>
-                    </div>
-                    <div class="text-center">
-                        <p class="mt-20 text-white">- Sign With -</p>
-                        <p class="gap-items-2 mb-20">
-                            <a class="waves-effect waves-light btn btn-social btn-facebook mb-5" href="#">
-                                <i class="fa fa-facebook mr-15"></i> FACEBOOK
-                            </a>
-                            <a class="waves-effect waves-light btn btn-social btn-twitter mb-5" href="#">
-                                <i class="fa fa-twitter mr-15"></i> TWITTER
-                            </a>
-                            <a class="waves-effect waves-light btn btn-social btn-instagram mb-5" href="#">
-                                <i class="fa fa-instagram mr-15"></i> INSTAGRAM
-                            </a>
-                        </p>
                     </div>
                 </div>
             </div>
