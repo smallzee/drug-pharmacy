@@ -147,4 +147,9 @@ class ProductController extends Controller
         $data['category'] = $drug_type;
         return view('admin.edit-drug-type',$data);
     }
+
+    public function drug_products(){
+        $data['page_title'] = "All Drug Products";
+        return view('admin.drug-products',$data);
+    }
 }

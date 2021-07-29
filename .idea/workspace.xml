@@ -2,534 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01c4cac1-146a-4625-83d1-b44a7d97dc1b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/assets/auth/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/after.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/avatar1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/avatar2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/avatar3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/avatar4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/before-after-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/before.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/blog1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/blog10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/blog11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/blog12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/blog13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/blog2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/blog3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/blog4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/blog5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/blog6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/blog7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/blog8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/blog9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/cardiology.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/client1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/client2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/client3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/client4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/client5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/comment1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/comment2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/crutches.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/dental-care.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/faq-img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/footer-bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/footer-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/hero-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/hero-bg13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/hero-bg15.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/hero-bg17.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/hero-bg2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/hero-bg3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/hero-bg4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/hero-bg5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/hero-bg6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/hero-bg9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/hero-img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/hero-img1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/hero-img2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/icon.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/icons/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/loading.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/member1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/member2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/member3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/member4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/neurology.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/news-letter-bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/project1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/project1_lg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/project2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/project2_lg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/project3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/project3_lg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/project4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/project4_lg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/project5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/project5_lg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/project6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/project6_lg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/project7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/project7_lg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/pulmonary.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/rs-post1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/rs-post2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/rs-post3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/shape/about-bg-shape.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/shape/contact-shape1.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/shape/contact-shape2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/shape/contact-shape3.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/shape/faq-bg.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/shape/hero-shape.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/shape/hero-shape.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/shape/member-shape.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/shape/price-shape.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/shape/section_shape.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/video-block-img.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/xray.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/libs/css/animate.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/libs/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/libs/css/flaticon.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/libs/css/fontawesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/libs/css/jQueryUi.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/libs/css/lightgallery.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/libs/css/select2.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/libs/css/slick.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/libs/css/textRotate.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/libs/fonts/fa-brands-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/libs/fonts/fa-brands-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/libs/fonts/fa-brands-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/libs/fonts/fa-brands-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/libs/fonts/fa-brands-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/libs/fonts/fa-brands-400_1717961559.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/libs/fonts/fa-regular-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/libs/fonts/fa-regular-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/libs/fonts/fa-regular-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/libs/fonts/fa-regular-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/libs/fonts/fa-regular-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/libs/fonts/fa-regular-400_1882139474.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/libs/fonts/fa-solid-900.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/libs/fonts/fa-solid-900.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/libs/fonts/fa-solid-900.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/libs/fonts/fa-solid-900.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/libs/fonts/fa-solid-900.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/libs/fonts/fa-solid-900_1813729546.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/libs/fonts/lg_1208299629.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/libs/fonts/lg_1515849836.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/libs/fonts/lg_253913394.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/libs/fonts/lg_421689899.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/libs/fonts/lg_505576233.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/libs/js/counter.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/libs/js/isotope.pkg.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/libs/js/jQueryUi.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/libs/js/jquery.slick.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/libs/js/lightgallery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/libs/js/mailchimp.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/libs/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/libs/js/ripples.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/libs/js/select2.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/libs/js/textRotate.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/libs/js/vendor/jquery-1.12.4.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/libs/js/vendor/modernizr-3.5.0.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/libs/js/wow.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/admin/category.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/admin/drug-type.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/admin/edit-category.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/admin/edit-drug-type.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/admin/students.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/admin/drug-products.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/admin/users.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Middleware/Authenticate.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Middleware/Authenticate.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/User.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/css/color_theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/css/color_theme.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/css/skin_color.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/css/skin_color.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/libs/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/css/style_rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/css/style_rtl.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/css/vendors_css.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/css/vendors_css.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/icons/Ionicons/css/1769169700.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/icons/Ionicons/css/1769169700.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/icons/cryptocoins-master/1109004414.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/icons/cryptocoins-master/1109004414.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/icons/feather-icons/118974819.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/icons/feather-icons/118974819.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/icons/flag-icon-css/css/140585765.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/icons/flag-icon-css/css/140585765.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/icons/font-awesome/css/117899798.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/icons/font-awesome/css/117899798.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/icons/glyphicons/528034657.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/icons/glyphicons/528034657.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/icons/iconsmind/1813666326.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/icons/iconsmind/1813666326.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/icons/linea-icons/1695368973.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/icons/linea-icons/1695368973.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/icons/material-design-iconic-font/css/1578045043.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/icons/material-design-iconic-font/css/1578045043.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/icons/simple-line-icons/css/1596534636.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/icons/simple-line-icons/css/1596534636.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/icons/themify-icons/772817671.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/icons/themify-icons/772817671.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/icons/weather-icons/css/1584554859.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/icons/weather-icons/css/1584554859.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/Flot/1567778684.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/Flot/1567778684.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/Flot/1581606772.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/Flot/1581606772.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/Flot/1881148932.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/Flot/1881148932.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/Flot/939989525.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/Flot/939989525.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/Magnific-Popup-master/dist/1314992246.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/Magnific-Popup-master/dist/1314992246.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/Magnific-Popup-master/dist/1832650588.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/Magnific-Popup-master/dist/1832650588.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/Magnific-Popup-master/dist/589392241.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/Magnific-Popup-master/dist/589392241.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/OwlCarousel2/dist/1578191737.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/OwlCarousel2/dist/1578191737.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/OwlCarousel2/dist/assets/1249607276.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/OwlCarousel2/dist/assets/1249607276.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/OwlCarousel2/dist/assets/1577584215.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/OwlCarousel2/dist/assets/1577584215.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/PACE/2019566174.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/PACE/2019566174.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/animate/813660416.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/animate/813660416.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/apexcharts-bundle/dist/321547126.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/apexcharts-bundle/dist/321547126.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/bootstrap-colorpicker/dist/css/107559544.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/bootstrap-colorpicker/dist/css/107559544.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/bootstrap-colorpicker/dist/js/1969240696.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/bootstrap-colorpicker/dist/js/1969240696.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/bootstrap-datepicker/dist/css/1920349814.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/bootstrap-datepicker/dist/css/1920349814.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/bootstrap-datepicker/dist/js/1919908696.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/bootstrap-datepicker/dist/js/1919908696.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/bootstrap-daterangepicker/1013650712.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/bootstrap-daterangepicker/1013650712.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/bootstrap-daterangepicker/1014134296.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/bootstrap-daterangepicker/1014134296.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/bootstrap-markdown-master/css/189346660.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/bootstrap-markdown-master/css/189346660.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/bootstrap-markdown-master/js/37368676.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/bootstrap-markdown-master/js/37368676.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/bootstrap-select/dist/css/2004758563.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/bootstrap-select/dist/css/2004758563.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/bootstrap-select/dist/js/2003270925.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/bootstrap-select/dist/js/2003270925.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/bootstrap-switch/1681137424.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/bootstrap-switch/1681137424.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/bootstrap-tagsinput/dist/1191662454.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/bootstrap-tagsinput/dist/1191662454.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/bootstrap-tagsinput/dist/1193160822.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/bootstrap-tagsinput/dist/1193160822.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/bootstrap-touchspin/dist/1968310605.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/bootstrap-touchspin/dist/1968310605.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/bootstrap-touchspin/dist/286222116.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/bootstrap-touchspin/dist/286222116.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/bootstrap/dist/css/360592737.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/bootstrap/dist/css/360592737.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/c3/1946180874.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/c3/1946180874.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/c3/1946180877.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/c3/1946180877.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/c3/2104712458.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/c3/2104712458.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/chartist-js-develop/1969316409.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/chartist-js-develop/1969316409.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/chartist-js-develop/1970810647.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/chartist-js-develop/1970810647.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/chartjs-master/1751541849.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/chartjs-master/1751541849.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/ckeditor/1700802826.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/ckeditor/1700802826.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/ckeditor/1953063464.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/ckeditor/1953063464.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/ckeditor/1968637718.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/ckeditor/1968637718.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/ckeditor/2134902794.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/ckeditor/2134902794.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/ckeditor/lang/index_0.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/ckeditor/lang/index_0.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/ckeditor/plugins/index_0.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/ckeditor/plugins/index_0.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/ckeditor/plugins/templates/templates/1014499601.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/ckeditor/plugins/templates/templates/1014499601.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/ckeditor/skins/index_0.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/ckeditor/skins/index_0.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/d3/1946180877.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/d3/1946180877.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/d3/421342306.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/d3/421342306.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/datatable/1885674780.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/datatable/1885674780.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/datatable/2031492380.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/datatable/2031492380.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/date-paginator/118570091.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/date-paginator/118570091.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/date-paginator/292386154.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/date-paginator/292386154.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/dropzone/1718301470.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/dropzone/1718301470.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/dropzone/1718779440.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/dropzone/1718779440.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/easypiechart/dist/1163881585.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/easypiechart/dist/1163881585.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/echarts/dist/941299483.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/echarts/dist/941299483.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/flat-color-icons/SVG/alarm_clock_1461658467.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/flat-color-icons/SVG/alarm_clock_1461658467.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/flat-color-icons/SVG/calculator_55934841.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/flat-color-icons/SVG/calculator_55934841.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/flat-color-icons/SVG/compact_camera_1579944979.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/flat-color-icons/SVG/compact_camera_1579944979.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/flat-color-icons/SVG/contacts_1617723180.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/flat-color-icons/SVG/contacts_1617723180.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/flat-color-icons/SVG/download_1835037478.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/flat-color-icons/SVG/download_1835037478.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/flat-color-icons/SVG/folder_1882463491.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/flat-color-icons/SVG/folder_1882463491.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/flat-color-icons/SVG/music_2013289230.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/flat-color-icons/SVG/music_2013289230.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/flat-color-icons/SVG/news_335615552.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/flat-color-icons/SVG/news_335615552.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/flat-color-icons/SVG/phone_2132559381.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/flat-color-icons/SVG/phone_2132559381.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/flat-color-icons/SVG/settings_1617262644.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/flat-color-icons/SVG/settings_1617262644.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/flat-color-icons/SVG/stack_of_photos_593708851.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/flat-color-icons/SVG/stack_of_photos_593708851.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/flat-color-icons/SVG/start_1662147079.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/flat-color-icons/SVG/start_1662147079.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/flexslider/1714236010.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/flexslider/1714236010.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/flexslider/206664304.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/flexslider/206664304.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/formatter/1664688131.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/formatter/1664688131.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/formatter/2070689141.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/formatter/2070689141.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/fullcalendar/1717711685.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/fullcalendar/1717711685.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/fullcalendar/1719369323.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/fullcalendar/1719369323.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/fullcalendar/1868569154.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/fullcalendar/1868569154.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/fullcalendar/lib/292386154.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/fullcalendar/lib/292386154.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/gallery/css/1702852653.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/gallery/css/1702852653.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/gallery/js/1701197059.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/gallery/js/1701197059.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/gallery/js/388983922.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/gallery/js/388983922.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/gmaps/1785097594.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/gmaps/1785097594.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/gmaps/37832565.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/gmaps/37832565.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/gridstack/124463231.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/gridstack/124463231.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/gridstack/1952589951.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/gridstack/1952589951.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/gridstack/2018117407.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/gridstack/2018117407.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/gridstack/910034015.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/gridstack/910034015.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/horizontal-timeline/css/1480723571.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/horizontal-timeline/css/1480723571.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/horizontal-timeline/js/1482387315.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/horizontal-timeline/js/1482387315.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/ion-rangeSlider/css/2104318746.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/ion-rangeSlider/css/2104318746.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/ion-rangeSlider/css/357454422.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/ion-rangeSlider/css/357454422.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/ion-rangeSlider/js/1394233719.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/ion-rangeSlider/js/1394233719.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/jquery-knob/js/1397974902.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/jquery-knob/js/1397974902.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/jquery-steps-master/build/373375852.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/jquery-steps-master/build/373375852.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/jquery-toast-plugin-master/src/373442423.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/jquery-toast-plugin-master/src/373442423.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/jquery-toast-plugin-master/src/375065177.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/jquery-toast-plugin-master/src/375065177.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/jquery-ui/1664231025.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/jquery-ui/1664231025.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/jquery-ui/174000159.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/jquery-ui/174000159.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/jquery-validation-1170/dist/72579445.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/jquery-validation-1170/dist/72579445.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/jquerypeity/524636029.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/jquerypeity/524636029.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/jvectormap/lib2/1196586284.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/jvectormap/lib2/1196586284.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/jvectormap/lib2/1430402673.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/jvectormap/lib2/1430402673.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/jvectormap/lib2/1764065089.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/jvectormap/lib2/1764065089.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/jvectormap/lib2/1764577859.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/jvectormap/lib2/1764577859.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/jvectormap/lib2/1799123248.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/jvectormap/lib2/1799123248.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/jvectormap/lib2/1882485040.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/jvectormap/lib2/1882485040.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/jvectormap/lib2/1898394727.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/jvectormap/lib2/1898394727.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/jvectormap/lib2/4545584.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/jvectormap/lib2/4545584.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/lightbox-master/dist/1728273752.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/lightbox-master/dist/1728273752.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/lightbox-master/dist/336223576.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/lightbox-master/dist/336223576.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/marked/1918633224.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/marked/1918633224.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/moment/min/292386154.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/moment/min/292386154.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/moment/src/943004419.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/moment/src/943004419.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/morrisjs/108163693.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/morrisjs/108163693.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/morrisjs/1647254532.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/morrisjs/1647254532.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/nestable/1651270689.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/nestable/1651270689.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/nestable/924849951.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/nestable/924849951.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/perfect-scrollbar-master/1343029539.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/perfect-scrollbar-master/1343029539.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/prism/1930058781.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/prism/1930058781.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/prism/220189.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/prism/220189.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/progressbarjs-master/dist/1225029216.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/progressbarjs-master/dist/1225029216.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/raphael/454585726.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/raphael/454585726.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/raty-master/lib/1246264441.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/raty-master/lib/1246264441.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/raty-master/lib/1246830457.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/raty-master/lib/1246830457.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/select2/dist/css/373496701.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/select2/dist/css/373496701.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/select2/dist/js/1415072374.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/select2/dist/js/1415072374.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/sweetalert/1946749980.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/sweetalert/1946749980.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/sweetalert/2019697960.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/sweetalert/2019697960.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/sweetalert/273965685.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/sweetalert/273965685.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/tiny-editable/1192449301.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/tiny-editable/1192449301.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/tiny-editable/1510022149.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/tiny-editable/1510022149.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/to-markdown/1413638778.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/to-markdown/1413638778.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/weather-icons/924798213.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/weather-icons/924798213.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/x-editable/dist/bootstrap3-editable/css/54798180.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/x-editable/dist/bootstrap3-editable/css/54798180.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/x-editable/dist/bootstrap3-editable/js/171386724.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_components/x-editable/dist/bootstrap3-editable/js/171386724.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_plugins/JqueryPrintArea/demo/1396325675.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_plugins/JqueryPrintArea/demo/1396325675.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_plugins/ace-builds-master/src-min-noconflict/1561289569.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_plugins/ace-builds-master/src-min-noconflict/1561289569.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_plugins/bootstrap-slider/1949572630.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_plugins/bootstrap-slider/1949572630.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_plugins/bootstrap-slider/2019654664.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_plugins/bootstrap-slider/2019654664.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_plugins/bootstrap-wysihtml5/1279677762.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_plugins/bootstrap-wysihtml5/1279677762.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_plugins/bootstrap-wysihtml5/1314526316.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_plugins/bootstrap-wysihtml5/1314526316.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_plugins/bootstrap-wysihtml5/540244290.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_plugins/bootstrap-wysihtml5/540244290.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_plugins/bootstrap-wysihtml5/573519980.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_plugins/bootstrap-wysihtml5/573519980.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_plugins/iCheck/1562316641.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_plugins/iCheck/1562316641.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_plugins/iCheck/2084964362.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_plugins/iCheck/2084964362.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_plugins/iCheck/292054627.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_plugins/iCheck/292054627.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_plugins/iCheck/flat/369495884.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_plugins/iCheck/flat/369495884.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_plugins/input-mask/1397718079.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_plugins/input-mask/1397718079.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_plugins/input-mask/1614231323.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_plugins/input-mask/1614231323.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_plugins/input-mask/1815312205.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_plugins/input-mask/1815312205.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_plugins/pace/2021224304.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_plugins/pace/2021224304.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_plugins/timepicker/2053518959.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_plugins/timepicker/2053518959.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_plugins/timepicker/2055174977.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_plugins/timepicker/2055174977.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_plugins/weather-icons/1612148572.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/http/elitex-admin-dashboard-templateakshartechnet/assets/vendor_plugins/weather-icons/1612148572.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/js/demo.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/js/demo.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/js/pages/advanced-form-element.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/js/pages/advanced-form-element.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/js/pages/app-chat.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/js/pages/app-chat.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/js/pages/app-contact.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/js/pages/app-contact.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/js/pages/app-ticket.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/js/pages/app-ticket.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/js/pages/c3-axis.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/js/pages/c3-axis.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/js/pages/c3-bar-pie.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/js/pages/c3-bar-pie.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/js/pages/c3-data.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/js/pages/c3-data.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/js/pages/c3-line.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/js/pages/c3-line.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/js/pages/c3-multi-xy-line.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/js/pages/c3-multi-xy-line.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/js/pages/c3-stap-line.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/js/pages/c3-stap-line.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/js/pages/calendar.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/js/pages/calendar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/js/pages/chart-widgets.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/js/pages/chart-widgets.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/js/pages/chartjs-int.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/js/pages/chartjs-int.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/js/pages/component-animations-css3.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/js/pages/component-animations-css3.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/js/pages/component-rating-init.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/js/pages/component-rating-init.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/js/pages/coundown-timer.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/js/pages/coundown-timer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/js/pages/custom-scroll.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/js/pages/custom-scroll.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/js/pages/dashboard.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/js/pages/dashboard.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/js/pages/data-table.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/js/pages/data-table.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/js/pages/date-paginator.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/js/pages/date-paginator.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/js/pages/echart-bar.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/js/pages/echart-bar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/js/pages/echart-line-charts.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/js/pages/echart-line-charts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/js/pages/echart-pie-doghnut.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/js/pages/echart-pie-doghnut.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/js/pages/ecommerce_details.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/js/pages/ecommerce_details.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/js/pages/editable-tables.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/js/pages/editable-tables.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/js/pages/editor.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/js/pages/editor.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/js/pages/extra_taskboard.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/js/pages/extra_taskboard.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/js/pages/form-code-editor.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/js/pages/form-code-editor.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/js/pages/form-compose.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/js/pages/form-compose.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/js/pages/form-validation.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/js/pages/form-validation.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/js/pages/form-x-editable.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/js/pages/form-x-editable.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/js/pages/formatter.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/js/pages/formatter.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/js/pages/fullscreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/js/pages/fullscreen.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/js/pages/gallery.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/js/pages/gallery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/js/pages/gridstackjs.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/js/pages/gridstackjs.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/js/pages/icons.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/js/pages/icons.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/js/pages/invoice.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/js/pages/invoice.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/js/pages/list.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/js/pages/list.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/js/pages/mailbox.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/js/pages/mailbox.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/js/pages/media.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/js/pages/media.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/js/pages/nestable.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/js/pages/nestable.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/js/pages/notification.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/js/pages/notification.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/js/pages/pace.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/js/pages/pace.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/js/pages/peity.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/js/pages/peity.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/js/pages/range-sliders.init.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/js/pages/range-sliders.init.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/js/pages/slider.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/js/pages/slider.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/js/pages/statistic.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/js/pages/statistic.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/js/pages/steps.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/js/pages/steps.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/js/pages/timeline.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/js/pages/timeline.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/js/pages/toastr.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/js/pages/toastr.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/js/pages/validation.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/js/pages/validation.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/js/pages/weather.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/js/pages/weather.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/js/pages/widget-blog.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/js/pages/widget-blog.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/js/pages/widget-chartist.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/js/pages/widget-chartist.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/js/pages/widget-charts2.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/js/pages/widget-charts2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/js/pages/widget-flot-charts.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/js/pages/widget-flot-charts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/js/pages/widget-inline-charts.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/js/pages/widget-inline-charts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/js/pages/widget-morris-charts.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/js/pages/widget-morris-charts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/js/template.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/js/template.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/js/vendors.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/auth/js/vendors.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/150x100_829322496.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/150x100_829322496.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/1_392834609.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/1_392834609.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/alert/alert2_1696947733.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/alert/alert2_1696947733.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/alert/alert3_1696947989.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/alert/alert3_1696947989.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/alert/alert4_1696946197.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/alert/alert4_1696946197.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/alert/alert5_1696946453.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/alert/alert5_1696946453.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/alert/alert6_1696946709.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/alert/alert6_1696946709.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/alert/alert7_1696946965.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/alert/alert7_1696946965.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/alert/alert_2064990741.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/alert/alert_2064990741.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/auth-bg/404_1229216308.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/auth-bg/404_1229216308.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/auth-bg/500_1228954165.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/auth-bg/500_1228954165.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/avatar/1_392834609.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/avatar/1_392834609.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/avatar/2_392834610.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/avatar/2_392834610.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/avatar/375x200/1_392834609.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/avatar/375x200/1_392834609.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/avatar/375x200/2_392834610.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/avatar/375x200/2_392834610.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/avatar/375x200/3_392834611.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/avatar/375x200/3_392834611.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/avatar/375x200/4_392834612.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/avatar/375x200/4_392834612.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/avatar/375x200/5_392834613.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/avatar/375x200/5_392834613.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/avatar/375x200/6_392834614.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/avatar/375x200/6_392834614.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/avatar/375x200/7_392834615.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/avatar/375x200/7_392834615.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/avatar/375x200/8_392834616.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/avatar/375x200/8_392834616.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/avatar/3_392834611.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/avatar/3_392834611.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/avatar/4_392834612.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/avatar/4_392834612.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/avatar/5_392834613.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/avatar/5_392834613.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/avatar/6_392834614.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/avatar/6_392834614.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/avatar/7_392834615.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/avatar/7_392834615.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/avatar/8_392834616.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/avatar/8_392834616.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/avatar/9_392834617.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/avatar/9_392834617.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/avatar/default_677536529.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/avatar/default_677536529.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/avatar2_1027437568.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/avatar2_1027437568.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/avatar3_1027372032.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/avatar3_1027372032.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/avatar5_1027240960.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/avatar5_1027240960.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/avatar_1663108096.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/avatar_1663108096.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/bg.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/card/2_392834610.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/card/2_392834610.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/card/3_392834611.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/card/3_392834611.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/card/img1_1444349767.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/card/img1_1444349767.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/card/img2_1427572551.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/card/img2_1427572551.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/card/img3_1410795335.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/card/img3_1410795335.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/card/img4_1394018119.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/card/img4_1394018119.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/favicon_679175941.ico" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/favicon_679175941.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gallery/full/10_224276529.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/gallery/full/10_224276529.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gallery/full/1_392834609.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/gallery/full/1_392834609.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gallery/full/2_392834610.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/gallery/full/2_392834610.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gallery/full/3_392834611.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/gallery/full/3_392834611.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gallery/full/slide-1_757607190.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/gallery/full/slide-1_757607190.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gallery/full/slide-2_757803798.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/gallery/full/slide-2_757803798.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gallery/full/slide-3_757738262.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/gallery/full/slide-3_757738262.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gallery/full/slide-4_757934870.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/gallery/full/slide-4_757934870.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gallery/landscape10_1565481338.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/gallery/landscape10_1565481338.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gallery/landscape11_1565415802.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/gallery/landscape11_1565415802.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gallery/landscape12_1565350266.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/gallery/landscape12_1565350266.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gallery/landscape13_1565284730.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/gallery/landscape13_1565284730.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gallery/landscape14_1565219194.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/gallery/landscape14_1565219194.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gallery/landscape15_1565153658.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/gallery/landscape15_1565153658.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gallery/landscape16_1565088122.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/gallery/landscape16_1565088122.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gallery/landscape17_1565022586.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/gallery/landscape17_1565022586.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gallery/landscape18_1564957050.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/gallery/landscape18_1564957050.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gallery/landscape1_424751994.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/gallery/landscape1_424751994.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gallery/landscape2_424751226.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/gallery/landscape2_424751226.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gallery/landscape3_424751482.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/gallery/landscape3_424751482.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gallery/landscape4_424752762.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/gallery/landscape4_424752762.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gallery/landscape5_424753018.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/gallery/landscape5_424753018.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gallery/landscape6_424752250.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/gallery/landscape6_424752250.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gallery/landscape7_424752506.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/gallery/landscape7_424752506.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gallery/landscape8_424753786.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/gallery/landscape8_424753786.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gallery/landscape9_424754042.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/gallery/landscape9_424754042.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gallery/studio10_859074868.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/gallery/studio10_859074868.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gallery/studio11_842297652.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/gallery/studio11_842297652.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gallery/studio12_825520436.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/gallery/studio12_825520436.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gallery/studio13_808743220.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/gallery/studio13_808743220.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gallery/studio14_926183732.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/gallery/studio14_926183732.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gallery/studio15_909406516.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/gallery/studio15_909406516.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gallery/studio16_892629300.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/gallery/studio16_892629300.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gallery/studio17_875852084.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/gallery/studio17_875852084.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gallery/studio18_993292596.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/gallery/studio18_993292596.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gallery/studio19_976515380.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/gallery/studio19_976515380.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gallery/studio1_758411546.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/gallery/studio1_758411546.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gallery/studio20_859271476.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/gallery/studio20_859271476.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gallery/studio21_842494260.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/gallery/studio21_842494260.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gallery/studio22_825717044.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/gallery/studio22_825717044.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gallery/studio23_808939828.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/gallery/studio23_808939828.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gallery/studio24_926380340.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/gallery/studio24_926380340.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gallery/studio25_909603124.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/gallery/studio25_909603124.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gallery/studio26_892825908.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/gallery/studio26_892825908.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gallery/studio27_876048692.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/gallery/studio27_876048692.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gallery/studio2_758608154.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/gallery/studio2_758608154.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gallery/studio3_758542618.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/gallery/studio3_758542618.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gallery/studio4_758214938.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/gallery/studio4_758214938.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gallery/studio5_758149402.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/gallery/studio5_758149402.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gallery/studio6_758346010.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/gallery/studio6_758346010.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gallery/studio7_758280474.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/gallery/studio7_758280474.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gallery/studio8_759001370.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/gallery/studio8_759001370.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gallery/studio9_758935834.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/gallery/studio9_758935834.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gallery/thumb-sm/12_224277041.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/gallery/thumb-sm/12_224277041.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gallery/thumb-sm/15_224277809.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/gallery/thumb-sm/15_224277809.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gallery/thumb-sm/1_392834609.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/gallery/thumb-sm/1_392834609.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gallery/thumb-sm/5_392834613.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/gallery/thumb-sm/5_392834613.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gallery/thumb-sm/6_392834614.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/gallery/thumb-sm/6_392834614.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gallery/thumb/10_224276529.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/gallery/thumb/10_224276529.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gallery/thumb/11_224276785.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/gallery/thumb/11_224276785.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gallery/thumb/12_224277041.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/gallery/thumb/12_224277041.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gallery/thumb/13_224277297.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/gallery/thumb/13_224277297.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gallery/thumb/14_224277553.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/gallery/thumb/14_224277553.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gallery/thumb/15_224277809.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/gallery/thumb/15_224277809.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gallery/thumb/18_224278577.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/gallery/thumb/18_224278577.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gallery/thumb/19_224278833.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/gallery/thumb/19_224278833.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gallery/thumb/1_392834609.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/gallery/thumb/1_392834609.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gallery/thumb/2_392834610.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/gallery/thumb/2_392834610.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gallery/thumb/3_392834611.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/gallery/thumb/3_392834611.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gallery/thumb/4_392834612.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/gallery/thumb/4_392834612.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gallery/thumb/5_392834613.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/gallery/thumb/5_392834613.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gallery/thumb/6_392834614.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/gallery/thumb/6_392834614.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gallery/thumb/7_392834615.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/gallery/thumb/7_392834615.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gallery/thumb/8_392834616.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/gallery/thumb/8_392834616.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gallery/thumb/9_392834617.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/gallery/thumb/9_392834617.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/icon.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/author.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/img1_1444349767.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/img1_1444349767.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/img2_1427572551.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/img2_1427572551.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/img3_1410795335.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/img3_1410795335.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/logo-light-text_892960588.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/logo-light-text_892960588.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/logo2fade.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/logo2fade.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/photo1_1664047391.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/photo1_1664047391.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/photo2_1664047647.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/photo2_1664047647.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/photo3_2033277727.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/photo3_2033277727.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/photo4_2033277983.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/photo4_2033277983.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/placeholder_1175194481.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/placeholder_1175194481.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/preview/1200x675_1651994215.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/preview/1200x675_1651994215.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/preview/coming-soon-1_1046366547.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/preview/coming-soon-1_1046366547.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/preview/coming-soon-2_1046366544.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/preview/coming-soon-2_1046366544.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/preview/coming-soon-3_1046366545.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/preview/coming-soon-3_1046366545.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/preview/email-change-pass_510947382.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/preview/email-change-pass_510947382.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/preview/email-closed-account_285497098.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/preview/email-closed-account_285497098.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/preview/email-expired-card_39149679.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/preview/email-expired-card_39149679.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/preview/email-update_453923139.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/preview/email-update_453923139.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/preview/email-verify-email_56369215.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/preview/email-verify-email_56369215.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/preview/email-welcome_1745423616.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/preview/email-welcome_1745423616.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/product/product-1_1080770356.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/product/product-1_1080770356.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/product/product-2_1080770359.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/product/product-2_1080770359.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/product/product-3_1080770358.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/product/product-3_1080770358.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/product/product-4_1080770353.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/product/product-4_1080770353.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/product/product-5_1080770352.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/product/product-5_1080770352.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/product/product-6_1080770355.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/product/product-6_1080770355.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/product/product-7_1080770354.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/product/product-7_1080770354.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/product/product-8_1080770365.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/product/product-8_1080770365.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/product/product-9_1080770364.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/product/product-9_1080770364.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/user-info_56702007.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/user-info_56702007.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/user1-128x128_1695483972.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/user1-128x128_1695483972.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/user3-128x128_1695483974.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/user3-128x128_1695483974.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/user4-128x128_1695483969.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/user4-128x128_1695483969.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/user5-128x128_1695483968.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/user5-128x128_1695483968.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/user6-128x128_1695483971.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/user6-128x128_1695483971.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/user7-128x128_1695483970.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/user7-128x128_1695483970.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/admin/AdminController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/admin/AdminController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/admin/ProductController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/admin/ProductController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2021_07_29_073328_create_products_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2021_07_29_073328_create_products_table.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/admin/dashboard.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/dashboard.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/admin/layout.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/layout.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/auth/login.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/auth/login.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layout.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -546,8 +26,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/routes/web.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="356">
-              <caret line="35" column="107" selection-start-line="35" selection-start-column="107" selection-end-line="35" selection-end-column="107" />
+            <state relative-caret-position="278">
+              <caret line="31" column="37" selection-start-line="31" selection-start-column="37" selection-end-line="31" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/admin/AdminController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
+              <folding>
+                <element signature="e#46#63#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -561,29 +53,41 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/admin/dashboard.blade.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="465">
-              <caret line="50" column="65" selection-start-line="50" selection-start-column="65" selection-end-line="50" selection-end-column="65" />
+              <caret line="64" column="60" selection-start-line="64" selection-start-column="60" selection-end-line="64" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resources/views/admin/users.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="464">
+              <caret line="42" column="123" selection-start-line="42" selection-start-column="123" selection-end-line="42" selection-end-column="123" />
+              <folding>
+                <element signature="e#4060#4115#0#HTML" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/views/admin/edit-drug-type.blade.php">
+        <entry file="file://$PROJECT_DIR$/resources/views/admin/students.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="17" column="59" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="59" />
+            <state relative-caret-position="225">
+              <caret line="90" column="32" lean-forward="true" selection-start-line="90" selection-start-column="32" selection-end-line="90" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/views/admin/edit-category.blade.php">
+        <entry file="file://$PROJECT_DIR$/resources/views/admin/drug-products.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="17" column="58" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="58" />
+            <state relative-caret-position="585">
+              <caret line="41" column="29" selection-start-line="41" selection-start-column="29" selection-end-line="41" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -591,8 +95,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/admin/ProductController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="543">
-              <caret line="114" column="55" selection-start-line="114" selection-start-column="55" selection-end-line="114" selection-end-column="55" />
+            <state relative-caret-position="555">
+              <caret line="152" column="49" selection-start-line="152" selection-start-column="49" selection-end-line="152" selection-end-column="49" />
               <folding>
                 <element signature="e#46#63#0#PHP" expanded="true" />
                 <element signature="e#508#577#0#PHP" />
@@ -623,9 +127,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/public/assets/admin/css/skin_color.css" />
-        <option value="$PROJECT_DIR$/public/assets/admin/js/template.min.js" />
-        <option value="$PROJECT_DIR$/public/assets/admin/js/demo.js" />
         <option value="$PROJECT_DIR$/public/assets/admin/js/pages/app-chat.js" />
         <option value="$PROJECT_DIR$/public/assets/admin/css/style.css" />
         <option value="$PROJECT_DIR$/database/migrations/2021_07_29_060644_create_department_table.php" />
@@ -637,7 +138,6 @@
         <option value="$PROJECT_DIR$/app/Role.php" />
         <option value="$PROJECT_DIR$/database/migrations/2021_07_29_073050_create_category_table.php" />
         <option value="$PROJECT_DIR$/database/migrations/2021_07_29_073220_create_drug_type_table.php" />
-        <option value="$PROJECT_DIR$/database/migrations/2021_07_29_073328_create_products_table.php" />
         <option value="$PROJECT_DIR$/app/Http/Middleware/Authenticate.php" />
         <option value="$PROJECT_DIR$/public/assets/libs/css/style.css" />
         <option value="$PROJECT_DIR$/resources/views/auth/login.blade.php" />
@@ -667,13 +167,17 @@
         <option value="$PROJECT_DIR$/app/Category.php" />
         <option value="$PROJECT_DIR$/resources/views/admin/category.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/admin/edit-category.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/admin/layout.blade.php" />
         <option value="$PROJECT_DIR$/app/Drug_type.php" />
         <option value="$PROJECT_DIR$/resources/views/admin/drug-type.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/admin/edit-drug-type.blade.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2021_07_29_073328_create_products_table.php" />
+        <option value="$PROJECT_DIR$/resources/views/admin/dashboard.blade.php" />
         <option value="$PROJECT_DIR$/routes/web.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/admin/ProductController.php" />
-        <option value="$PROJECT_DIR$/resources/views/admin/dashboard.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/admin/drug-products.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/admin/layout.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/admin/AdminController.php" />
+        <option value="$PROJECT_DIR$/resources/views/admin/users.blade.php" />
       </list>
     </option>
   </component>
@@ -824,6 +328,17 @@
             <path>
               <item name="pharmacy" type="b2602c69:ProjectViewProjectNode" />
               <item name="pharmacy" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pharmacy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pharmacy" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+              <item name="migrations" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pharmacy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pharmacy" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -903,12 +418,12 @@
       <option name="presentableId" value="Default" />
       <updated>1626352162105</updated>
       <workItem from="1626352163443" duration="6607000" />
-      <workItem from="1627538679265" duration="13837000" />
+      <workItem from="1627538679265" duration="15134000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20444000" />
+    <option name="totallyTimeSpent" value="21741000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="0" />
@@ -940,27 +455,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/database/migrations/2021_07_29_060723_create_level_table.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/account/LoginController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="23" column="30" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/composer.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="47" column="9" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/database/migrations/2021_07_29_072815_create_role_table.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -972,13 +466,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/database/migrations/2021_07_29_073328_create_products_table.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="23" column="11" lean-forward="true" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
         </state>
       </provider>
     </entry>
@@ -1222,16 +709,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/admin/students.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="81" column="10" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="81" selection-end-column="10" />
-          <folding>
-            <element signature="e#53#2927#0#HTML" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Category.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -1274,17 +751,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/admin/edit-category.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="17" column="58" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/admin/drug-type.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="73" column="9" lean-forward="true" selection-start-line="73" selection-start-column="9" selection-end-line="73" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2021_07_29_073328_create_products_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/admin/ProductController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="152" column="49" selection-start-line="152" selection-start-column="49" selection-end-line="152" selection-end-column="49" />
+          <folding>
+            <element signature="e#46#63#0#PHP" expanded="true" />
+            <element signature="e#508#577#0#PHP" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/edit-category.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" column="34" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="15" selection-end-column="34" />
         </state>
       </provider>
     </entry>
@@ -1295,35 +790,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/admin/layout.blade.php">
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/drug-products.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="112" column="47" selection-start-line="112" selection-start-column="47" selection-end-line="112" selection-end-column="47" />
+        <state relative-caret-position="585">
+          <caret line="41" column="29" selection-start-line="41" selection-start-column="29" selection-end-line="41" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/routes/web.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="35" column="107" selection-start-line="35" selection-start-column="107" selection-end-line="35" selection-end-column="107" />
+        <state relative-caret-position="278">
+          <caret line="31" column="37" selection-start-line="31" selection-start-column="37" selection-end-line="31" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/admin/ProductController.php">
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/students.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="543">
-          <caret line="114" column="55" selection-start-line="114" selection-start-column="55" selection-end-line="114" selection-end-column="55" />
+        <state relative-caret-position="225">
+          <caret line="90" column="32" lean-forward="true" selection-start-line="90" selection-start-column="32" selection-end-line="90" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/admin/AdminController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
           <folding>
             <element signature="e#46#63#0#PHP" expanded="true" />
-            <element signature="e#508#577#0#PHP" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/layout.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="105" column="47" selection-start-line="105" selection-start-column="47" selection-end-line="105" selection-end-column="47" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/admin/dashboard.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
-          <caret line="50" column="65" selection-start-line="50" selection-start-column="65" selection-end-line="50" selection-end-column="65" />
+          <caret line="64" column="60" selection-start-line="64" selection-start-column="60" selection-end-line="64" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/users.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="42" column="123" selection-start-line="42" selection-start-column="123" selection-end-line="42" selection-end-column="123" />
+          <folding>
+            <element signature="e#4060#4115#0#HTML" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

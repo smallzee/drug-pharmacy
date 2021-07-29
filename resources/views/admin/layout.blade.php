@@ -103,16 +103,32 @@
 
 
                 <li >
+                    <a href="{{url('admin/users')}}">
+                        <i class="fa fa-user text-primary "></i>
+                        <span>All Admin</span>
+                    </a>
+                </li>
+
+                <li >
                     <a href="{{url('admin/students')}}">
                         <i class="fa fa-user text-primary "></i>
                         <span>All Students</span>
                     </a>
                 </li>
 
+                <li class="header">DRUG NAVIGATION</li>
+
                 <li >
                     <a href="{{url('admin/drug-type')}}">
                         <i class="fab fa-drupal text-primary "></i>
                         <span>All Drug Type</span>
+                    </a>
+                </li>
+
+                <li >
+                    <a href="{{url('admin/drug-products')}}">
+                        <i class="fab fa-drupal text-primary "></i>
+                        <span>All Drug Products</span>
                     </a>
                 </li>
 
@@ -123,6 +139,8 @@
                     </a>
                 </li>
 
+
+                <li class="header">LOGOUT</li>
 
                 <li>
                     <a href="{{url('admin/logout')}}">

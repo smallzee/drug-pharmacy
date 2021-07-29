@@ -27,4 +27,13 @@ class AdminController extends Controller
 
         return view('admin.dashboard',$data);
     }
+
+    public function users(){
+        $data['page_title'] = "All Admin";
+        return view('admin.users',$data);
+    }
+
+    public function create_new_user(Request $request){
+
+    }
 }

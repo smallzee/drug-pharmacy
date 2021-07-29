@@ -38,6 +38,8 @@ Route::group(['namespace'=>'admin','prefix'=>'admin'], function (){
         Route::get('/drug-type', "ProductController@drug_type")->name('drug_type');
 
 
+        Route::get('/drug-products', "ProductController@drug_products")->name('drug_products');
+
 
         Route::get('/students', "StudentController@students")->name('students');
 
