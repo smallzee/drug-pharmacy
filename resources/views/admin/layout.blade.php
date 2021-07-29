@@ -42,7 +42,6 @@
     <!-- Google Font: Source Sans Pro -->
     <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="{{url('assets/admin/css/style.css')}}">
-    <link rel="icon" href="{{image_url('logo/logo_01.png')}}">
 </head>
 <body class="hold-transition skin-blue sidebar-mini" >
 
@@ -70,8 +69,8 @@
                     <!-- User Account: style can be found in dropdown.less -->
                     <li class="dropdown user user-menu">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-                            <img src="{{image_url('author.jpeg') }}" class="user-image" alt="User Image">
-                            <span class="hidden-xs">{{ucwords(auth()->user()->full_name)}} ({{role(auth()->user()->role_id)}})</span>
+                            <img src="{{image_url(auth()->user()->image) }}" class="user-image" alt="User Image">
+                            <span class="hidden-xs">{{ucwords(auth()->user()->full_name)}}</span>
                         </a>
                     </li>
                 </ul>
@@ -102,207 +101,28 @@
                     </a>
                 </li>
 
-                <li>
-                    <a href="{{url('admin/audit-log')}}">
-                        <i class="ti-palette text-primary "></i>
-                        <span> &nbsp; Audit Log</span>
+
+                <li >
+                    <a href="{{url('admin/students')}}">
+                        <i class="fa fa-user text-primary "></i>
+                        <span>All Students</span>
                     </a>
                 </li>
 
-                <li class="header">USERS</li>
-
-                <li>
-                    <a href="{{url('admin/users')}}">
-                        <i class="ti-user text-primary "></i>
-                        <span> &nbsp; All Users</span>
+                <li >
+                    <a href="{{url('admin/drug-type')}}">
+                        <i class="fab fa-drupal text-primary "></i>
+                        <span>All Drug Type</span>
                     </a>
                 </li>
 
-                <li>
-                    <a href="{{url('admin/admin')}}">
-                        <i class="ti-user text-primary "></i>
-                        <span> &nbsp; All Admin</span>
+                <li >
+                    <a href="{{url('admin/category')}}">
+                        <i class="fab fa-drupal text-primary "></i>
+                        <span>All Drug Category</span>
                     </a>
                 </li>
 
-                <li class="header">UTILITIES</li>
-
-                <li>
-                    <a href="{{url('admin/packages')}}">
-                        <i class="ti-package text-primary "></i>
-                        <span> &nbsp; All Packages</span>
-                    </a>
-                </li>
-
-                <li class="treeview">
-                    <a href="#">
-                        <i class="ti-package text-primary "></i>
-                        <span> &nbsp; All Package Providers</span>
-                        <span class="pull-right-container">
-                          <i class="fa fa-angle-left pull-right"></i>
-                        </span>
-                    </a>
-                    <ul class="treeview-menu">
-
-                        @foreach(\App\Packages::orderBy('name')->get() as $value)
-                            <li>
-                                <a href="{{url('admin/providers/'.$value->id)}}">
-                                    <i class="fa fa-circle-o-notch "></i>
-                                    <span> {{ucwords($value->name)}}</span>
-                                </a>
-                            </li>
-                        @endforeach
-
-                    </ul>
-                </li>
-
-                <li class="treeview">
-                    <a href="#">
-                        <i class="ti-package text-primary "></i>
-                        <span> &nbsp; All Utilities Transactions</span>
-                        <span class="pull-right-container">
-                          <i class="fa fa-angle-left pull-right"></i>
-                        </span>
-                    </a>
-                    <ul class="treeview-menu">
-
-                        @foreach(\App\Packages::orderBy('name')->get() as $value)
-                            <li>
-                                <a href="{{url('admin/transactions/'.$value->id)}}">
-                                    <i class="fa fa-circle-o-notch "></i>
-                                    <span> {{ucwords($value->name)}}</span>
-                                </a>
-                            </li>
-                        @endforeach
-
-                    </ul>
-                </li>
-
-                <li class="treeview" style="height: auto;">
-                    <a href="#"><i class="ti ti-package text-primary"></i> &nbsp; All Providers Package List
-                        <span class="pull-right-container">
-                                  <i class="fa fa-angle-left pull-right"></i>
-                                </span>
-                    </a>
-                    <ul class="treeview-menu" >
-
-                        @foreach(\App\Packages::orderBy('name')->get() as $value)
-                            <li class="treeview">
-                                <a href="#"><i class="fa fa-circle-o-notch"></i> {{ucwords($value->name)}}
-                                    <span class="pull-right-container">
-                                      <i class="fa fa-angle-left pull-right"></i>
-                                    </span>
-                                </a>
-                                <ul class="treeview-menu" style="display: none;">
-
-                                    @foreach(\App\Providers::where('package_id',$value->id)->orderBy('name')->get() as $val)
-
-                                        <li>
-                                            <a href="{{url('admin/provider-package-list/'.$val->id)}}">
-                                                <i class="fa fa-circle-o-notch"></i>
-                                                <span>{{ucwords($val->name)}}</span>
-                                            </a>
-                                        </li>
-
-                                        @endforeach
-
-
-                                </ul>
-                            </li>
-                        @endforeach
-
-
-
-                    </ul>
-                </li>
-
-                <li class="header">CRYPTO CURRENCY</li>
-
-                <li>
-                    <a href="{{url('admin/crypto-currency')}}">
-                        <i class="ti-pulse text-primary "></i>
-                        <span> &nbsp; All Crypto Currency</span>
-                    </a>
-                </li>
-
-                <li class="treeview">
-                    <a href="#">
-                        <i class="ti-pulse text-primary "></i>
-                        <span> &nbsp; All Crypto Transactions</span>
-                        <span class="pull-right-container">
-                          <i class="fa fa-angle-left pull-right"></i>
-                        </span>
-                    </a>
-                    <ul class="treeview-menu">
-
-                        @foreach(\App\CryptoCurrency::orderBy('name')->get() as $value)
-                            <li>
-                                <a href="{{url('admin/crypto-currency-transactions/'.$value->id)}}">
-                                    <i class="fa fa-circle-o-notch "></i>
-                                    <span> {{ucwords($value->name)}}</span>
-                                </a>
-                            </li>
-                        @endforeach
-
-                    </ul>
-                </li>
-
-
-                <li class="header">GIFTCARD</li>
-
-                <li>
-                    <a href="{{url('admin/giftcard')}}">
-                        <i class="ti-pulse text-primary "></i>
-                        <span> &nbsp; All Giftcard</span>
-                    </a>
-                </li>
-
-                <li class="treeview">
-                    <a href="#">
-                        <i class="ti-pulse text-primary "></i>
-                        <span> &nbsp; All Giftcard Transactions</span>
-                        <span class="pull-right-container">
-                          <i class="fa fa-angle-left pull-right"></i>
-                        </span>
-                    </a>
-                    <ul class="treeview-menu">
-
-                        @foreach(\App\Giftcard::orderBy('name')->get() as $value)
-                            <li>
-                                <a href="{{url('admin/giftcard-transactions/'.$value->id)}}">
-                                    <i class="fa fa-circle-o-notch "></i>
-                                    <span> {{ucwords($value->name)}}</span>
-                                </a>
-                            </li>
-                        @endforeach
-
-                    </ul>
-                </li>
-
-                <li class="header">PAYMENT TRANSACTIONS</li>
-
-                <li>
-                    <a href="{{url('admin/payment-transaction')}}">
-                        <i class="ti-credit-card text-primary "></i>
-                        <span> &nbsp; Payment Transactions</span>
-                    </a>
-                </li>
-
-                <li>
-                    <a href="{{url('admin/withdrawal-transaction')}}">
-                        <i class="ti-credit-card text-primary "></i>
-                        <span> &nbsp; Withdrawal Transactions</span>
-                    </a>
-                </li>
-
-                <li class="header">SETTINGS</li>
-
-                <li>
-                    <a href="{{url('admin/settings')}}">
-                        <i class="fa fa-wrench text-primary"></i>
-                        <span>Settings</span>
-                    </a>
-                </li>
 
                 <li>
                     <a href="{{url('admin/logout')}}">

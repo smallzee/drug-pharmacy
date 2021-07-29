@@ -10,11 +10,11 @@
     <title> Admin - {{ env('APP_NAME') }}</title>
 
     <!-- Vendors Style-->
-    <link rel="stylesheet" href="{{url('assets/libs/css/vendors_css.css')}}">
+    <link rel="stylesheet" href="{{url('assets/auth/css/vendors_css.css')}}">
 
     <!-- Style-->
-    <link rel="stylesheet" href="{{url('assets/libs/css/style.css')}}">
-    <link rel="stylesheet" href="{{url('assets/libs/css/skin_color.css')}}">
+    <link rel="stylesheet" href="{{url('assets/auth/css/style.css')}}">
+    <link rel="stylesheet" href="{{url('assets/auth/css/skin_color.css')}}">
 
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
     <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
@@ -27,7 +27,7 @@
 
 </head>
 
-<body class="hold-transition theme-primary bg-img" style="background-image: url({{url('images/bg.jpg')}})" data-overlay="2">
+<body class="hold-transition theme-primary bg-img" style="background-image: url({{image_url('bg.jpg')}})" data-overlay="2">
 
 <div class="container h-p100">
     <div class="row align-items-center justify-content-md-center h-p100">
@@ -42,7 +42,7 @@
                         </div>
 
                         <div class="text-center">
-                            <img src="{{url('images/logo.png')}}" style=" margin-top: 20px; width: 80px; height: 80px;" alt="">
+                            <img src="{{image_url('logo.png')}}" style=" margin-top: 20px; width: 80px; height: 80px;" alt="">
                         </div>
 
                         <div class="p-40">
@@ -84,6 +84,6 @@
 </div>
 
 <!-- Vendor JS -->
-<script src="{{url('assets/libs/js/vendors.min.js')}}"></script>
+<script src="{{url('assets/auth/js/vendors.min.js')}}"></script>
 </body>
 </html>
