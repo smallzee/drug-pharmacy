@@ -5,6 +5,7 @@ namespace App\Http\Controllers\admin;
 use App\Category;
 use App\Drug_type;
 use App\Http\Controllers\Controller;
+use App\Products;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Validator;
 
@@ -151,5 +152,47 @@ class ProductController extends Controller
     public function drug_products(){
         $data['page_title'] = "All Drug Products";
         return view('admin.drug-products',$data);
+    }
+
+    public function create_new_drug_product(Request $request){
+        $validator = Validator::make($request->all(),[
+            'name'=>'required|unique|products|min:3|max:200',
+            'drug_category'=>'required',
+            'drug_type'=>'required',
+            'measurement'=>'required',
+            'drug_description'=>'required',
+            'image'=>'required|mimes:jpeg,jpg,png|max:1024'
+        ]);
+
+        if ($validator->fails()){
+
+            $msg = (count($validator->errors()->all()) == 1) ? 'An error occurred' : 'Some error(s) occurred';
+
+            foreach ($validator->errors()->all() as $value){
+                $msg.='<p>'.$value.'</p>';
+            }
+
+            return redirect()->back()->with('flash_error',$msg)->withInput();
+
+        }
+
+        if ($request->hasFile('image')){
+            $file = $request->file('image');
+            $image = time().$file->getClientOriginalName();
+            $file->move(public_path('assets/images/'),$image);
+        }
+
+        $products = new Products([
+            'image'=>$image,
+            'name'=>$request->name,
+            'category_id'=>$request->drug_category,
+            'drug_type_id'=>$request->drug_type,
+            'measurement'=>$request->measurement,
+            'description'=>$request->drug_description,
+        ]);
+
+        if ($products->save()){
+            return back()->with('flash_info', 'Product has been added successfully');
+        }
     }
 }

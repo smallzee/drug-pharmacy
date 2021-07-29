@@ -25,7 +25,9 @@ Route::group(['namespace'=>'admin','prefix'=>'admin'], function (){
     Route::middleware(['auth'])->group(function (){
 
         Route::get('/dashboard', "AdminController@dashboard")->name('dashboard');
+
         Route::get('/users', "AdminController@users")->name('users');
+        Route::post('/create_new_user', "AdminController@create_new_user")->name('create_new_user');
 
         Route::get('/category', "ProductController@category")->name('category');
         Route::post('/create_new_category', "ProductController@create_new_category")->name('create_new_category');
@@ -39,6 +41,8 @@ Route::group(['namespace'=>'admin','prefix'=>'admin'], function (){
 
 
         Route::get('/drug-products', "ProductController@drug_products")->name('drug_products');
+        Route::post('/create_new_drug_product', "ProductController@create_new_drug_product")->name('create_new_drug_product');
+
 
 
         Route::get('/students', "StudentController@students")->name('students');
