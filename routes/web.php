@@ -16,8 +16,11 @@ Route::get('/', function () {
 });
 
 
+Route::group(['namespace'=>'account','prefix'=>'auth'], function (){
+    Route::resource("login", "LoginController");
+});
+
 Route::group(['namespace'=>'admin','prefix'=>'admin'], function (){
-    Route::resource("/login", "LoginController");
 
     Route::middleware(['auth'])->group(function (){
 
