@@ -5,6 +5,7 @@ namespace App\Http\Controllers\admin;
 use App\Category;
 use App\Drug_type;
 use App\Http\Controllers\Controller;
+use App\Inventory;
 use App\Products;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Validator;
@@ -156,7 +157,7 @@ class ProductController extends Controller
 
     public function create_new_drug_product(Request $request){
         $validator = Validator::make($request->all(),[
-            'name'=>'required|unique|products|min:3|max:200',
+            'name'=>'required|unique:products|min:3|max:200',
             'drug_category'=>'required',
             'drug_type'=>'required',
             'measurement'=>'required',
@@ -194,5 +195,140 @@ class ProductController extends Controller
         if ($products->save()){
             return back()->with('flash_info', 'Product has been added successfully');
         }
+    }
+
+    public function edit_product(Products $products){
+        $data['page_title'] = "Edit Product";
+        $data['product'] = $products;
+        return view('admin.edit-product',$data);
+    }
+
+    public function update_drug_product(Request $request){
+
+        $validator = Validator::make($request->all(),[
+            'name'=>'required|min:3|max:200',
+            'drug_category'=>'required',
+            'drug_type'=>'required',
+            'measurement'=>'required',
+            'drug_description'=>'required'
+        ]);
+
+        if ($validator->fails()){
+
+            $msg = (count($validator->errors()->all()) == 1) ? 'An error occurred' : 'Some error(s) occurred';
+
+            foreach ($validator->errors()->all() as $value){
+                $msg.='<p>'.$value.'</p>';
+            }
+
+            return redirect()->back()->with('flash_error',$msg)->withInput();
+
+        }
+
+        $product = Products::findOrFail($request->id);
+        $product->name =$request->name;
+        $product->category_id = $request->drug_category;
+        $product->drug_type_id = $request->drug_type;
+        $product->measurement = $request->measurement;
+        $product->description =$request->drug_description;
+
+        if ($product->save()){
+            return back()->with('flash_info','Product has been update successfully');
+        }
+    }
+
+    public function inventory(){
+        $data['page_title'] = "Inventory";
+        return view('admin.inventory',$data);
+    }
+
+    public function create_new_inventory(Request $request){
+        $validator = Validator::make($request->all(),[
+            'product_name'=>'required',
+            'quantity'=>'required',
+            'nafdac_number'=>'required',
+            'manufacturer_date'=>'required',
+            'batch_number'=>'required',
+            'expiry_date'=>'required'
+        ]);
+
+        if ($validator->fails()){
+
+            $msg = (count($validator->errors()->all()) == 1) ? 'An error occurred' : 'Some error(s) occurred';
+
+            foreach ($validator->errors()->all() as $value){
+                $msg.='<p>'.$value.'</p>';
+            }
+
+            return redirect()->back()->with('flash_error',$msg)->withInput();
+
+        }
+
+        $inventory = new Inventory([
+            'product_id'=>$request->product_name,
+            'quantity'=>$request->quantity,
+            'expiry_date'=>$request->expiry_date,
+            'remark'=>$request->remark,
+            'nafdac_number'=>$request->nafdac_number,
+            'batch_number'=>$request->batch_number,
+            'expiry_date'=>$request->expiry_date
+        ]);
+
+        if ($inventory->save()){
+            return back()->with('flash_info','Product Inventory has been added successfully');
+        }
+
+    }
+
+    public function edit_inventory(Inventory $inventory){
+        $data['page_title'] = "Edit Inventory";
+        $data['inventory'] =  $inventory;
+        return view('admin.edit-inventory',$data);
+    }
+
+    public function update_inventory(Request $request){
+        $validator = Validator::make($request->all(),[
+            'product_name'=>'required',
+            'quantity'=>'required',
+            'nafdac_number'=>'required',
+            'manufacturer_date'=>'required',
+            'batch_number'=>'required',
+            'expiry_date'=>'required'
+        ]);
+
+        if ($validator->fails()){
+
+            $msg = (count($validator->errors()->all()) == 1) ? 'An error occurred' : 'Some error(s) occurred';
+
+            foreach ($validator->errors()->all() as $value){
+                $msg.='<p>'.$value.'</p>';
+            }
+
+            return redirect()->back()->with('flash_error',$msg)->withInput();
+
+        }
+
+        $inventory = Inventory::find($request->id);
+        $inventory->product_id = $request->product_name;
+        $inventory->quantity = $request->quantity;
+        $inventory->remark = $request->remark;
+        $inventory->expiry_date = $request->expiry_date;
+        $inventory->nafdac_number = $request->nafdac_number;
+        $inventory->manufacturer_date = $request->manufacturer_date;
+        $inventory->batch_number = $request->batch_number;
+
+        if ($inventory->save()){
+            return back()->with('flash_info','Product inventory has been updated successfully');
+        }
+    }
+
+    public function obtain(){
+        $data['page_title'] = "Obtain Drugs";
+        return view('admin.obtain',$data);
+    }
+
+    public function expired(){
+        $data['page_title'] = "All Expired Drug Inventory";
+        return view('admin.expired',$data);
     }
 }

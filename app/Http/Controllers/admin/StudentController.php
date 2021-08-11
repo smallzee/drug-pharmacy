@@ -58,4 +58,10 @@ class StudentController extends Controller
         }
 
     }
+
+    public function view(User $user){
+        $data['page_title'] = "Student Profile";
+        $data['user'] = $user;
+        return view('admin.view',$data);
+    }
 }

@@ -118,6 +118,21 @@
                             <th>Action</th>
                         </tr>
                         </tfoot>
+                        <tbody>
+                        @php($sn =1)
+                        @foreach(\App\Products::orderBy('name')->get() as $value)
+                            <tr>
+                                <td>{{$sn++}}</td>
+                                <td><img src="{{image_url($value->image)}}" class="img-thumbnail" style="width: 50px; height: 50px;" alt=""></td>
+                                <td>{{$value->category->name}}</td>
+                                <td>{{ $value->drug_type->name }}</td>
+                                <td>{{$value->name}}</td>
+                                <td>{{$value->measurement}}</td>
+                                <td>{{$value->description}}</td>
+                                <td><a href="{{url('admin/edit-product/'.$value->id)}}" class="btn btn-primary btn-sm">Edit</a></td>
+                            </tr>
+                        @endforeach
+                        </tbody>
                     </table>
                 </div>
 

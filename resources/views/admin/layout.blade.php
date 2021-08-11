@@ -139,6 +139,27 @@
                     </a>
                 </li>
 
+                <li >
+                    <a href="{{url('admin/inventory')}}">
+                        <i class="fab fa-drupal text-primary "></i>
+                        <span>All Drug Inventory</span>
+                    </a>
+                </li>
+
+                <li >
+                    <a href="{{url('admin/expired')}}">
+                        <i class="fab fa-drupal text-primary "></i>
+                        <span>All Expired Drug Inventory</span>
+                    </a>
+                </li>
+
+                <li >
+                    <a href="{{url('admin/obtain')}}">
+                        <i class="fab fa-drupal text-primary "></i>
+                        <span>Obtain Drug</span>
+                    </a>
+                </li>
+
 
                 <li class="header">LOGOUT</li>
 
