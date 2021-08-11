@@ -7,6 +7,8 @@ use App\Drug_type;
 use App\Http\Controllers\Controller;
 use App\Inventory;
 use App\Products;
+use App\Sales;
+use App\User;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Validator;
 
@@ -330,5 +332,64 @@ class ProductController extends Controller
     public function expired(){
         $data['page_title'] = "All Expired Drug Inventory";
         return view('admin.expired',$data);
+    }
+
+    public function create_obtain_drug(Request $request){
+       $validator = Validator::make($request->all(),[
+           'student'=>'required',
+           'quantity'=>'required',
+           'inventory'=>'required',
+           'drug_usage'=>'required'
+       ]);
+
+        if ($validator->fails()){
+
+            $msg = (count($validator->errors()->all()) == 1) ? 'An error occurred' : 'Some error(s) occurred';
+
+            foreach ($validator->errors()->all() as $value){
+                $msg.='<p>'.$value.'</p>';
+            }
+
+            return redirect()->back()->with('flash_error',$msg)->withInput();
+
+        }
+
+        $inventory = $request->inventory;
+        $quantity = $request->quantity;
+        $student_id = $request->student;
+        $drug_usage = $request->drug_usage;
+
+        $user = User::find($student_id);
+
+        for ($i =0; $i < count($quantity); $i++){
+            $inventory_id = $inventory[$i];
+            $quantities = $quantity[$i];
+
+            $inventory_data = Inventory::find($inventory_id);
+            $stock_quantity = $inventory_data->quantity;
+            $remaining = $stock_quantity - $quantities;
+            $drug_usages = $drug_usage[$i];
+
+            $inventory_data->quantity = $remaining;
+            $inventory_data->save();
+
+            $sales = new Sales([
+                'student_id'=>$student_id,
+                'quantity'=>$quantities,
+                'inventory_id'=>$inventory_id,
+                'drug_usage'=>$drug_usages
+            ]);
+
+            $sales->save();
+
+        }
+
+        return back()->with('flash_info',strtoupper($user->matric_number)." drug has been obtained successfully");
+
+    }
+
+    public function drug_obtained(){
+        $data['page_title'] = "All Drugs Obtained";
+        return view('admin.drug-obtained',$data);
     }
 }

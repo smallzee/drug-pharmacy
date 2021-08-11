@@ -15,12 +15,27 @@ function role($id){
     return $data['name'];
 }
 
-function category($category_id,$value){
-    $data = \App\Category::where('id',$category_id)->first();
+function category($id,$value){
+    $data = \App\Category::where('id',$id)->first();
     return $data[$value];
 }
 
-function drug_type($category_id,$value){
-    $data = \App\Drug_type::where('id',$category_id)->first();
+function drug_type($id,$value){
+    $data = \App\Drug_type::where('id',$id)->first();
+    return $data[$value];
+}
+
+function department($id,$value){
+    $data = \App\Department::where('id',$id)->first();
+    return $data[$value];
+}
+
+function level($id,$value){
+    $data = \App\Level::where('id',$id)->first();
+    return $data[$value];
+}
+
+function product($id,$value){
+    $data = \App\Products::where('id',$id)->first();
     return $data[$value];
 }

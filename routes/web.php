@@ -47,6 +47,9 @@ Route::group(['namespace'=>'admin','prefix'=>'admin'], function (){
         Route::post('/update_drug_type', "ProductController@update_drug_type")->name('update_drug_type');
         Route::post('/update_drug_product', "ProductController@update_drug_product")->name('update_drug_product');
         Route::get('/drug-type', "ProductController@drug_type")->name('drug_type');
+        Route::get('/drug-obtained', "ProductController@drug_obtained")->name('drug_obtained');
+
+        Route::post('/create_obtain_drug', "ProductController@create_obtain_drug")->name('create_obtain_drug');
 
 
         Route::get('/drug-products', "ProductController@drug_products")->name('drug_products');

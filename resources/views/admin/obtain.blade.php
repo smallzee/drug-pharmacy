@@ -70,7 +70,9 @@
             <div class="box-body">
 
                 <div class="table-responsive">
-                    <form action="" method="post">
+                    <form action="{{url('admin/create_obtain_drug')}}" method="post">
+
+                        @csrf
 
                         <div class="form-group">
                             <label for="">Student</label>
@@ -90,6 +92,7 @@
                                 <th>Image</th>
                                 <th>Product Name</th>
                                 <th>Quantity</th>
+                                <th>Drug Usage</th>
                                 <th>Drug Category</th>
                                 <th>Drug Type</th>
                                 <th>Measurement</th>
@@ -104,6 +107,7 @@
                                 <th>Image</th>
                                 <th>Product Name</th>
                                 <th>Quantity</th>
+                                <th>Drug Usage</th>
                                 <th>Drug Category</th>
                                 <th>Drug Type</th>
                                 <th>Measurement</th>
@@ -116,10 +120,11 @@
                             @foreach(\App\Inventory::orderBy('id','desc')->where('quantity','>',0)->where('expiry_date','>',date('Y-m-d'))->get() as $value)
                                 <tr>
                                     <td>{{$sn++}}</td>
-                                    <td><input type="checkbox" name="inventory[]" id=""></td>
+                                    <td><input type="checkbox" name="inventory[]" value="{{$value->id}}" id=""></td>
                                     <td><img src="{{image_url($value->product->image)}}" class="img-thumbnail" style="width: 50px; height: 50px;" alt=""></td>
                                     <td>{{$value->product->name}}</td>
-                                    <td><input type="number" value="1" max="{{ $value->quantity }}}" class="form-control" name="" id=""></td>
+                                    <td><input type="number" value="1" max="{{ $value->quantity }}}" class="form-control" name="quantity[]" id=""></td>
+                                    <td><input type="text" class="form-control" name="drug_usage[]" placeholder="Drug Usage" id=""></td>
                                     <td>{{category($value->product->category_id,'name')}}</td>
                                     <td>{{drug_type($value->product->drug_type_id,'name')}}</td>
                                     <td>{{$value->product->measurement}}</td>

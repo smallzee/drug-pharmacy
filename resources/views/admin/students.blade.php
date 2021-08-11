@@ -134,7 +134,7 @@
                                 <td>{{$value->phone_number}}</td>
                                 <td>{{ucwords($value->department->name)}}</td>
                                 <td>{{strtoupper($value->levels->name)}}</td>
-                                <td><a href="" class="btn btn-primary btn-sm">View</a></td>
+                                <td><a href="{{url('admin/view/'.$value->id)}}" class="btn btn-primary btn-sm">View</a></td>
                             </tr>
                         @endforeach
                         </tbody>

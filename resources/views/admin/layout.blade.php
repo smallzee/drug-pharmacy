@@ -119,6 +119,13 @@
                 <li class="header">DRUG NAVIGATION</li>
 
                 <li >
+                    <a href="{{url('admin/obtain')}}">
+                        <i class="fab fa-drupal text-primary "></i>
+                        <span>Drug Obtain</span>
+                    </a>
+                </li>
+
+                <li >
                     <a href="{{url('admin/drug-type')}}">
                         <i class="fab fa-drupal text-primary "></i>
                         <span>All Drug Type</span>
@@ -129,6 +136,13 @@
                     <a href="{{url('admin/drug-products')}}">
                         <i class="fab fa-drupal text-primary "></i>
                         <span>All Drug Products</span>
+                    </a>
+                </li>
+
+                <li >
+                    <a href="{{url('admin/drug-obtained')}}">
+                        <i class="fab fa-drupal text-primary "></i>
+                        <span>All Drug Obtained</span>
                     </a>
                 </li>
 
@@ -150,13 +164,6 @@
                     <a href="{{url('admin/expired')}}">
                         <i class="fab fa-drupal text-primary "></i>
                         <span>All Expired Drug Inventory</span>
-                    </a>
-                </li>
-
-                <li >
-                    <a href="{{url('admin/obtain')}}">
-                        <i class="fab fa-drupal text-primary "></i>
-                        <span>Obtain Drug</span>
                     </a>
                 </li>
 
