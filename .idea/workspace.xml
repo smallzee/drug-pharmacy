@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01c4cac1-146a-4625-83d1-b44a7d97dc1b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/views/admin/drug-obtained.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Helpers/Helpers.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Helpers/Helpers.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/admin/ProductController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/admin/ProductController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/layout.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/layout.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/obtain.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/obtain.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/students.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/students.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/admin/view.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/view.blade.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,20 +45,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/views/admin/drug-obtained.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="517">
-              <caret line="65" column="56" selection-start-line="65" selection-start-column="56" selection-end-line="65" selection-end-column="56" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/resources/views/admin/students.blade.php">
+        <entry file="file://$PROJECT_DIR$/resources/views/admin/view.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="136" column="75" selection-start-line="136" selection-start-column="75" selection-end-line="136" selection-end-column="75" />
+            <state relative-caret-position="163">
+              <caret line="86" column="44" selection-start-line="86" selection-start-column="44" selection-end-line="86" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -126,7 +110,6 @@
         <option value="$PROJECT_DIR$/resources/views/index.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/admin/dashboard.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/admin/StudentController.php" />
-        <option value="$PROJECT_DIR$/resources/views/admin/view.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/admin/drug-products.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/admin/edit-product.blade.php" />
         <option value="$PROJECT_DIR$/app/Products.php" />
@@ -144,6 +127,7 @@
         <option value="$PROJECT_DIR$/app/Helpers/Helpers.php" />
         <option value="$PROJECT_DIR$/resources/views/admin/drug-obtained.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/admin/students.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/admin/view.blade.php" />
       </list>
     </option>
   </component>
@@ -392,12 +376,12 @@
       <workItem from="1626352163443" duration="6607000" />
       <workItem from="1627538679265" duration="23257000" />
       <workItem from="1628060842122" duration="841000" />
-      <workItem from="1628665790953" duration="14037000" />
+      <workItem from="1628665790953" duration="15722000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44742000" />
+    <option name="totallyTimeSpent" value="46427000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="0" />
@@ -681,16 +665,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/admin/view.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="9" column="76" selection-start-line="9" selection-start-column="76" selection-end-line="9" selection-end-column="76" />
-          <folding>
-            <element signature="e#1562#1596#0#HTML" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/admin/drug-type.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -768,16 +742,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/admin/ProductController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="341" column="35" selection-start-line="341" selection-start-column="35" selection-end-line="341" selection-end-column="35" />
-          <folding>
-            <element signature="e#46#63#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/admin/obtain.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -806,17 +770,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/admin/drug-obtained.blade.php">
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/students.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="517">
-          <caret line="65" column="56" selection-start-line="65" selection-start-column="56" selection-end-line="65" selection-end-column="56" />
+        <state relative-caret-position="435">
+          <caret line="141" column="22" selection-start-line="141" selection-start-column="22" selection-end-line="141" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/admin/students.blade.php">
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/drug-obtained.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="136" column="75" selection-start-line="136" selection-start-column="75" selection-end-line="136" selection-end-column="75" />
+        <state relative-caret-position="202">
+          <caret line="48" column="50" lean-forward="true" selection-start-line="42" selection-start-column="28" selection-end-line="48" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/admin/ProductController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="341" column="35" selection-start-line="341" selection-start-column="35" selection-end-line="341" selection-end-column="35" />
+          <folding>
+            <element signature="e#46#63#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/view.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="86" column="44" selection-start-line="86" selection-start-column="44" selection-end-line="86" selection-end-column="44" />
         </state>
       </provider>
     </entry>
